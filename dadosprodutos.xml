@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<folhetos>
+    <produto>
+        <grupo>higiene</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/QJQ.png?set=set1</foto>
+        <descricao>Robô monstro 01</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>higiene</grupo>
+        <promocao>true</promocao>
+        <foto>https://robohash.org/7NN.png?set=set1</foto>
+        <descricao>Robô monstro 02</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>higiene</grupo>
+        <promocao>true</promocao>
+        <foto>https://robohash.org/02L.png?set=set1</foto>
+        <descricao>Robô monstro 03</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>higiene</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/JIJ.png?set=set1</foto>
+        <descricao>Robô monstro 04</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>higiene</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/PXV.png?set=set1</foto>
+        <descricao>Robô monstro 05</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>limpeza</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/OH0.png?set=set2</foto>
+        <descricao>Robô monstro 03</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>limpeza</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/KSC.png?set=set2</foto>
+        <descricao>Robô monstro 04</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>limpeza</grupo>
+        <promocao>true</promocao>
+        <foto>https://robohash.org/IQ5.png?set=set2</foto>
+        <descricao>Robô monstro 05</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>limpeza</grupo>
+        <promocao>true</promocao>
+        <foto>https://robohash.org/NHQ.png?set=set2</foto>
+        <descricao>Robô monstro 01</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>limpeza</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/0CV.png?set=set2</foto>
+        <descricao>Robô monstro 02</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>automotivo</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/C42.png?set=set3</foto>
+        <descricao>Robô monstro 01</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>automotivo</grupo>
+        <promocao>true</promocao>
+        <foto>https://robohash.org/DJL.png?set=set3</foto>
+        <descricao>Robô monstro 02</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>automotivo</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/402.png?set=set3</foto>
+        <descricao>Robô monstro 03</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>automotivo</grupo>
+        <promocao>true</promocao>
+        <foto>https://robohash.org/8WX.png?set=set3</foto>
+        <descricao>Robô monstro 04</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+    <produto>
+        <grupo>automotivo</grupo>
+        <promocao></promocao>
+        <foto>https://robohash.org/E8S.png?set=set3</foto>
+        <descricao>Robô monstro 05</descricao>
+        <preco>R$ 10,00</preco>
+        
+    </produto>
+</folhetos>

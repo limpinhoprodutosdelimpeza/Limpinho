@@ -10,49 +10,58 @@
 </head>
 <body>
     <header>
-        <span class="header" id="spanheader01">
-            <img src="logolimpinho.png" alt="Logo Limpinho Produtos de Limpeza">
-        </span>
-        <span class="header" id="spanheader02">
-            <h1>Limpinho</h1>
-            <h2>Produtos de Limpeza</h2>
-        </span>
+        <div id="header01">
+            <span class="header" id="spanheader01">
+                <img src="logolimpinho.png" alt="Logo Limpinho Produtos de Limpeza">
+            </span>
+            <span class="header" id="spanheader02">
+                <h1>Limpinho</h1>
+                <h2>Produtos de Limpeza</h2>
+            </span>
+        </div>
+        <div>
+            <nav>
+                <span class="menutelas" id="spantelapromocoes" onclick="showTelas('menutelas','spantelapromocoes','promocoes')">
+                    Promoções
+                </span>
+                <span class="menutelas" id="spantelahigiene" onclick="showTelas('menutelas','spantelahigiene','higiene')">
+                    Higiene
+                </span>
+                <span class="menutelas" id="spantelalimpeza" onclick="showTelas('menutelas','spantelalimpeza','limpeza')">
+                    Limpeza
+                </span>
+                <span class="menutelas" id="spantelaautomotivo" onclick="showTelas('menutelas','spantelaautomotivo','automotivo')">
+                    Automotivo
+                </span>
+            </nav>
+        </div>
     </header>
     <main>
-        <nav>
-            <span onclick="showTelas('promocoes')">
-                Promoções
-            </span>
-            <span onclick="showTelas('higiene')">
-                Higiene
-            </span>
-            <span onclick="showTelas('limpeza')">
-                Limpeza
-            </span>
-            <span onclick="showTelas('automotivo')">
-                Automotivo
-            </span>
-        </nav>
         <section class="promocoes">
             <h2>Veja nossas promoções!!</h2>
-            <div>Promoções exibidas aqui</div>
+            <div>SITE EM TESTE!</div>
+            <div class="folheto" id="folhetopromocoes"></div>
         </section>
         <section class="higiene">
             <h2>Higiene pessoal.</h2>
-            <div>Produtos exibidos aqui</div>
+            <div>SITE EM TESTE!</div>
+            <div class="folheto" id="folhetohigiene"></div>
         </section>
         <section class="limpeza">
             <h2>Limpeza geral.</h2>
-            <div>Produtos exibidos aqui</div>
+            <div>SITE EM TESTE!</div>
+            <div class="folheto" id="folhetolimpeza"></div>
         </section>
         <section class="automotivo">
             <h2>Produtos para limpeza do seu veículo.</h2>
-            <div>Produtos exibidos aqui</div>
+            <div>SITE EM TESTE!</div>
+            <div class="folheto" id="folhetoautomotivo"></div>
         </section>
-    </main>
 
-    
+        
+    </main>
     
     <script src="javascript.js"></script>
+    <script src="jquery-3.6.0.js"></script>
 </body>
 </html>
